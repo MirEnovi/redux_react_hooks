@@ -1,3 +1,5 @@
+/* Reducer */
+
 // constanst
 let initialData = {
     loggedIn: false
